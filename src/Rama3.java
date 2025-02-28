@@ -31,7 +31,7 @@ public class Rama3 {
         } else if (imc>50) {
             System.out.println("Tiene obesidad grado 4");
         } else {
-            System.out.println("Los datos ingresados son erroneos");
+            System.out.println("Los datos ingresados son erroneos ");
         }
     }
 }
